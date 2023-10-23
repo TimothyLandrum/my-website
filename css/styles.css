@@ -1,0 +1,59 @@
+body {
+ /*   background-image: url('https://images.unsplash.com/photo-1694709651451-1d59e62236f9?auto=format&fit=crop&q=80&w=1335&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); */
+  /*  background-image: url('https://images.unsplash.com/photo-1693207761400-ded14835fa7e?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); */
+ /*   background-image: url('https://images.rawpixel.com/image_600/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMThiYXRjaDcta2F0aWUtNThhLWpvYjU5Ny5qcGc.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: rgb(165, 157, 42);
+    padding: 10px
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color:bisque
+}
+
+ul {
+    list-style-type: disc;
+}
+
+/* This section modifies the work.html */
+#projects {
+    text-align: center;
+    margin: 20px;
+}
+
+#projects h2 {
+    font-size: 24px;
+    color: #b41d1d; 
+}
+
+#projects p {
+    font-size: 16px;
+    color: #666; 
+}
+
+#projects ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#projects li {
+    font-size: 18px;
+    color: #940e0e; 
+    margin-bottom: 10px;
